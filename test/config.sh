@@ -10,6 +10,7 @@ imageTests+=(
 	docker_api
 	certs_single
 	certs_san
+	certs_standalone
 	force_renew
 	symlinks
 	'
